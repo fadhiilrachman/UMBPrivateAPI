@@ -1,12 +1,8 @@
 # UMB Private API
 
-<<<<<<< HEAD
  [![Version 1.0.1](https://img.shields.io/badge/beta-1.0.1-brightgreen.svg "Version 1.0.1")](https://pypi.python.org/pypi/umb) [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg "LICENSE")](https://github.com/fadhiilrachman/UMBPrivateAPI/blob/master/LICENSE) [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/)
-=======
- [![Version 3.0.8](https://img.shields.io/badge/beta-1.0.0-brightgreen.svg "Version 3.0.8")](https://pypi.python.org/pypi/umb) [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg "LICENSE")](https://github.com/fadhiilrachman/UMBPrivateAPI/blob/master/LICENSE) [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/)
->>>>>>> 18c87ef489daf197bf5dbdb1498b7fc87838004b
  
-UMB information system's private API based on their mobile application
+UMB information system's private API based on their mobile application.
 
 ----
 
@@ -48,8 +44,4 @@ $ pip install umb --upgrade
 ```
 
 ## Author
-<<<<<<< HEAD
 Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
-=======
-Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
->>>>>>> 18c87ef489daf197bf5dbdb1498b7fc87838004b
