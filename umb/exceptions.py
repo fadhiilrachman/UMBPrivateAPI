@@ -15,10 +15,6 @@ class base_error(with_metaclass(ABCMeta, Exception)):
 		return '<{0} [{1}]>'.format(
 			self.__class__.__name__, self.message)
 
-class invalid_signature_error(base_error):
-	def __init__(self, message='-'):
-		super(invalid_signature_error, self).__init__(message)
-
 class UMBApiError(base_error):
 	def __init__(self, status_code, error=None):
 		super(UMBApiError, self).__init__(error)

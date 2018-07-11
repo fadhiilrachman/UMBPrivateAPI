@@ -45,7 +45,7 @@ class UMB(object):
 			headers = {'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
 		headers.update(self.headers)
 
-		response = self.http_client.post(
+		response = self.http_client.get(
 			url, headers=headers, params=params, stream=stream, timeout=timeout
 		)
 
